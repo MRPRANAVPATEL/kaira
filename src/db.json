@@ -1,0 +1,353 @@
+{
+  "newArrivals": [
+    {
+      "id": "1",
+      "title": "Casual Shirt",
+      "price": 1200,
+      "img": "images/product-item-1.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Formal Shirt",
+      "price": 1800,
+      "img": "images/product-item-2.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Sneakers",
+      "price": 2500,
+      "img": "images/product-item-3.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Blue Jeans",
+      "price": 2200,
+      "img": "images/product-item-4.jpg"
+    }
+  ],
+  "cart": [],
+  "billboard": [
+    {
+      "id": "1",
+      "img": "/images/banner-image-6.jpg",
+      "title": "Soft leather jackets"
+    },
+    {
+      "id": "2",
+      "img": "/images/banner-image-1.jpg",
+      "title": "Soft leather jackets"
+    },
+    {
+      "id": "3",
+      "img": "/images/banner-image-2.jpg",
+      "title": "Soft leather jackets"
+    },
+    {
+      "id": "4",
+      "img": "/images/banner-image-3.jpg",
+      "title": "Soft leather jackets"
+    },
+    {
+      "id": "5",
+      "img": "/images/banner-image-4.jpg",
+      "title": "Out crop sweater"
+    },
+    {
+      "id": "6",
+      "img": "/images/banner-image-5.jpg",
+      "title": "Soft leather jackets"
+    }
+  ],
+  "bestSellers": [
+    {
+      "id": "1",
+      "img": "/images/product-item-4.jpg",
+      "title": "Dark florish onepiece",
+      "price": "$95.00"
+    },
+    {
+      "id": "2",
+      "img": "/images/product-item-3.jpg",
+      "title": "Baggy Shirt",
+      "price": "$55.00"
+    },
+    {
+      "id": "3",
+      "img": "/images/product-item-5.jpg",
+      "title": "Cotton off-white shirt",
+      "price": "$65.00"
+    },
+    {
+      "id": "4",
+      "img": "/images/product-item-6.jpg",
+      "title": "Handmade crop sweater",
+      "price": "$50.00"
+    },
+    {
+      "id": "5",
+      "img": "/images/product-item-9.jpg",
+      "title": "Dark florish onepiece",
+      "price": "$70.00"
+    },
+    {
+      "id": "6",
+      "img": "/images/product-item-10.jpg",
+      "title": "Cotton off-white shirt",
+      "price": "$70.00"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "img": "/images/cat-item1.jpg",
+      "title": "Shop for men",
+      "link": "/men"
+    },
+    {
+      "id": "2",
+      "img": "/images/cat-item2.jpg",
+      "title": "Shop for women",
+      "link": "/women"
+    },
+    {
+      "id": "3",
+      "img": "/images/cat-item3.jpg",
+      "title": "Shop accessories",
+      "link": "/accessories"
+    }
+  ],
+  "collections": [
+    {
+      "id": "1",
+      "img": "/images/single-image-2.jpg",
+      "title": "Classic winter collection",
+      "description": "Dignissim lacus, turpis ut suspendisse vel tellus. Turpis purus, gravida orci, fringilla a. Ac sed eu fringilla odio mi. Consequat pharetra at magna imperdiet cursus ac faucibus sit libero. Ultricies quam nunc, lorem sit lorem urna, pretium aliquam ut. In vel, quis donec dolor id in. Pulvinar commodo mollis diam sed facilisis at cursus imperdiet cursus ac faucibus sit faucibus sit libero.",
+      "link": "/collections/winter"
+    }
+  ],
+  "videos": [
+    {
+      "id": "1",
+      "thumbnail": "/images/video-image.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/pjtsGzQjFM4",
+      "patternImg": "/images/text-pattern.png"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "1",
+      "text": "More than expected crazy soft, flexible and best fitted white simple denim shirt.",
+      "reviewTitle": "casual way"
+    },
+    {
+      "id": "2",
+      "text": "Best fitted white denim shirt more than expected crazy soft, flexible",
+      "reviewTitle": "uptop"
+    },
+    {
+      "id": "3",
+      "text": "Best fitted white denim shirt more white denim than expected flexible crazy soft.",
+      "reviewTitle": "Denim craze"
+    },
+    {
+      "id": "4",
+      "text": "Best fitted white denim shirt more than expected crazy soft, flexible",
+      "reviewTitle": "uptop"
+    }
+  ],
+  "relatedProducts": [
+    {
+      "id": "1",
+      "name": "Dark florish onepiece",
+      "price": 95,
+      "image": "/images/product-item-5.jpg",
+      "link": "/products/1"
+    },
+    {
+      "id": "2",
+      "name": "Baggy Shirt",
+      "price": 55,
+      "image": "/images/product-item-6.jpg",
+      "link": "/products/2"
+    },
+    {
+      "id": "3",
+      "name": "Cotton off-white shirt",
+      "price": 65,
+      "image": "/images/product-item-7.jpg",
+      "link": "/products/3"
+    },
+    {
+      "id": "4",
+      "name": "Handmade crop sweater",
+      "price": 50,
+      "image": "/images/product-item-8.jpg",
+      "link": "/products/4"
+    }
+  ],
+  "blogs": [
+    {
+      "id": "1",
+      "title": "How to look outstanding in pastel",
+      "category": "Fashion",
+      "date": "Jul 11, 2022",
+      "image": "/images/post-image1.jpg",
+      "excerpt": "Dignissim lacus, turpis ut suspendisse vel tellus. Turpis purus, gravida orci, fringilla...",
+      "link": "/blog/1"
+    },
+    {
+      "id": "2",
+      "title": "Top 10 fashion trend for summer",
+      "category": "Fashion",
+      "date": "Jul 11, 2022",
+      "image": "/images/post-image2.jpg",
+      "excerpt": "Turpis purus, gravida orci, fringilla dignissim lacus, turpis ut suspendisse vel tellus...",
+      "link": "/blog/2"
+    },
+    {
+      "id": "3",
+      "title": "Crazy fashion with unique moment",
+      "category": "Fashion",
+      "date": "Jul 11, 2022",
+      "image": "/images/post-image3.jpg",
+      "excerpt": "Turpis purus, gravida orci, fringilla dignissim lacus, turpis ut suspendisse vel tellus...",
+      "link": "/blog/3"
+    }
+  ],
+  "logos": [
+    {
+      "id": "1",
+      "image": "/images/logo1.png",
+      "link": "/"
+    },
+    {
+      "id": "2",
+      "image": "/images/logo2.png",
+      "link": "/"
+    },
+    {
+      "id": "3",
+      "image": "/images/logo3.png",
+      "link": "/"
+    },
+    {
+      "id": "4",
+      "image": "/images/logo4.png",
+      "link": "/"
+    },
+    {
+      "id": "5",
+      "image": "/images/logo5.png",
+      "link": "/"
+    }
+  ],
+  "instagram": [
+    {
+      "id": "1",
+      "image": "/images/insta-item1.jpg",
+      "link": "https://www.instagram.com/hm/"
+    },
+    {
+      "id": "2",
+      "image": "/images/insta-item2.jpg",
+      "link": "https://www.instagram.com/hm/"
+    },
+    {
+      "id": "3",
+      "image": "/images/insta-item3.jpg",
+      "link": "https://www.instagram.com/hm/"
+    },
+    {
+      "id": "4",
+      "image": "/images/insta-item4.jpg",
+      "link": "https://www.instagram.com/hm/"
+    },
+    {
+      "id": "5",
+      "image": "/images/insta-item5.jpg",
+      "link": "https://www.instagram.com/hm/"
+    },
+    {
+      "id": "6",
+      "image": "/images/insta-item6.jpg",
+      "link": "https://www.instagram.com/hm/"
+    }
+  ],
+  "users": [
+    {
+      "id": "e7e4",
+      "name": "abc",
+      "mobile": "1234567890",
+      "email": "abc@gmail.com",
+      "password": "abc123"
+    }
+  ],
+  "footer": {
+    "logo": "/images/main-logo.png",
+    "description": "Gravida massa volutpat aenean odio. Amet, turpis erat nullam fringilla elementum diam in. Nisi, purus vitae, ultrices nunc. Sit ac sit suscipit hendrerit.",
+    "quickLinks": [
+      {
+        "name": "Home",
+        "link": "/"
+      },
+      {
+        "name": "About",
+        "link": "/about"
+      },
+      {
+        "name": "Services",
+        "link": "/services"
+      },
+      {
+        "name": "Single item",
+        "link": "/single"
+      },
+      {
+        "name": "Contact",
+        "link": "/contact"
+      }
+    ],
+    "helpInfo": [
+      {
+        "name": "Track Your Order",
+        "link": "/track"
+      },
+      {
+        "name": "Returns + Exchanges",
+        "link": "/returns"
+      },
+      {
+        "name": "Shipping + Delivery",
+        "link": "/shipping"
+      },
+      {
+        "name": "Contact Us",
+        "link": "/contact"
+      },
+      {
+        "name": "Find us easy",
+        "link": "/find"
+      },
+      {
+        "name": "Faqs",
+        "link": "/faqs"
+      }
+    ],
+    "contact": {
+      "email": "contact@yourcompany.com",
+      "phone": "+43 720 11 52 78"
+    },
+    "shippingLogos": [
+      "/images/arct-icon.png",
+      "/images/dhl-logo.png"
+    ],
+    "paymentLogos": [
+      "/images/visa-card.png",
+      "/images/paypal-card.png",
+      "/images/master-card.png"
+    ],
+    "copyright": "© Copyright 2022 Kaira. All rights reserved.",
+    "designer": "PRANAV PATEL",
+    "distributor": "PRANAV PATEL"
+  }
+}
